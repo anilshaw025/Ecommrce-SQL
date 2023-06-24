@@ -1,4 +1,4 @@
-# Ecommrce-SQL-
+# Ecommrce-SQL
 
 #### Problem Statement:
 
