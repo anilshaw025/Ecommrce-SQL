@@ -4,7 +4,7 @@
 
 Assuming you are a data analyst/ scientist at Ecommerce, you have been assigned the task of analyzing the given dataset to extract valuable insights and provide actionable recommendations.
 
-#### What does 'good' look like?
+
 
 #### 1. Import the dataset and do usual exploratory analysis steps like checking the structure & characteristics of the dataset:
   1. Data type of all columns in the "customers" table.
